@@ -1,0 +1,56 @@
+.Muhammadamin_{
+    font-family: sans-serif ;
+}
+body{
+font-family: sans-serif;
+}
+.header{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hamburger{
+    margin-left: 8px;
+}
+
+.img{
+    border-radius: 100px;
+}
+
+.div{
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+}
+
+h2{
+    margin: 0px;
+    
+}
+
+.div2{
+    display: flex;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div4{
+    margin:30px;
+    text-align: center;
+}
+
+.p{
+    color: rgb(73, 73, 73);
+}
+
+.p2{
+    color: rgb(63, 63, 255);
+}
